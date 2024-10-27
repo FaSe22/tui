@@ -1,0 +1,27 @@
+{
+  "theme": {
+    "name": "custom",
+    "background": "#001100",
+    "foreground": "#00ff00",
+    "selection": "#ff0000",
+    "accent": "#ff5555",
+    "lineNumbers": "#888888"
+  },
+  "editor": {
+    "showLineNumbers": true,
+    "tabWidth": 4,
+    "wordWrap": true,
+    "autoIndent": true
+  },
+  "ui": {
+    "showScrollbar": true,
+    "showStatus": true,
+    "scrollStyle": "bar"
+  },
+  "keybindings": {
+    "quitKey": "q",
+    "saveKey": "ctrl+s",
+    "toggleWrapKey": "ctrl+w",
+    "toggleLinesKey": "ctrl+l"
+  }
+}
